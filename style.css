@@ -1,0 +1,19 @@
+html, body {
+  display: flex;
+  /* background-image: url('./seamless_tileable_grass_texture_by_demolitiondan_d4u41a9.jpg');
+  background-repeat: repeat;
+  background-size: 300px 300px; */
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+}
+
+canvas {
+  /* background-image: url('/home/trevor/dev/canvas/road_road_0021_01_tiled.jpg');
+  background-repeat: repeat-y;
+  background-size: 500px 500px; */
+}
+
+
